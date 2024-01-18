@@ -11,6 +11,6 @@ public class BallPower : Ball
 
     public void DisplayBallPowerName()
     {
-        Console.WriteLine($"Ball Power Name: {this.ballPowerName}");
+        Console.WriteLine($"Ball Power Name is: {this.ballPowerName}");
     }
 }
