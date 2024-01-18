@@ -1,0 +1,15 @@
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\bin\Debug\net8.0\OopBall.exe
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\bin\Debug\net8.0\OopBall.deps.json
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\bin\Debug\net8.0\OopBall.runtimeconfig.json
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\bin\Debug\net8.0\OopBall.dll
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\bin\Debug\net8.0\OopBall.pdb
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.AssemblyInfoInputs.cache
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.AssemblyInfo.cs
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.csproj.CoreCompileInputs.cache
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.sourcelink.json
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.dll
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\refint\OopBall.dll
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.pdb
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\OopBall.genruntimeconfig.cache
+C:\Users\deise\Documents\CSharp\JalaU\OOP-In-Ball\Lab2\OopBall\obj\Debug\net8.0\ref\OopBall.dll
